@@ -10,7 +10,7 @@
 
 * 编译安装
 ```
-git clone https://github.com/4kangjc/homework.git
+git clone https://github.com/4kangjc/awesomeProject.git
 cd homework && mkdir build
 cd build && cmake ..
 make
